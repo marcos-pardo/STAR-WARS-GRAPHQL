@@ -3,7 +3,7 @@ import { ObjectId, Collection } from "mongodb";
 
 
 type addArgs = {
-    numero: number
+    numero: number;
 }
 
 type Context = {
